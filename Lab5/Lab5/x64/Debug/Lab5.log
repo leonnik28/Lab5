@@ -1,6 +1,0 @@
-﻿  Function.c
-E:\leonnik\Lab\Lab5\Lab5\Function.c(117,30): warning C4477: "sscanf_s": в строке форматирования "%s" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "unsigned __int64"
-E:\leonnik\Lab\Lab5\Lab5\Function.c(117,30): message : этот аргумент используется в качестве размера буфера
-E:\leonnik\Lab\Lab5\Lab5\Function.c(117,30): warning C4477: "sscanf_s": в строке форматирования "%s" требуется аргумент типа "unsigned int", но вариативный аргумент "4" имеет тип "unsigned __int64"
-E:\leonnik\Lab\Lab5\Lab5\Function.c(117,30): message : этот аргумент используется в качестве размера буфера
-  Lab5.vcxproj -> E:\leonnik\Lab\Lab5\x64\Debug\Lab5.exe
