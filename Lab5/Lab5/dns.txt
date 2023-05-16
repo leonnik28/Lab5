@@ -1,0 +1,16 @@
+google.com 142.250.74.206
+youtube.com 142.250.186.110
+facebook.com 157.240.251.35
+twitter.com 104.244.42.1
+lms.bsuir.by 192.168.251.23
+wikipedia.org 91.198.174.192
+wikimedia.org 91.198.174.192
+tiktok.com 18.66.112.28
+openai.com 13.107.253.45
+vk.com 87.240.132.67
+vkontakte.ru 87.240.132.67
+vk.me 87.240.132.67
+microsoft.com 20.84.181.62
+2013office.com 20.84.181.62
+ebay.com 209.140.136.254
+netflix.com 3.251.50.149
